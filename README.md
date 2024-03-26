@@ -1,1 +1,1 @@
-# gitChallenge
+# Migthy Ducks Hockey League
